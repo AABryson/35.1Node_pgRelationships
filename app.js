@@ -1,6 +1,7 @@
 /** BizTime express application. */
 
-
+const companiesRoutes = require('./routes/companies');
+const invoicesRoutes = require('./routes/invoices')
 const express = require("express");
 
 const app = express();

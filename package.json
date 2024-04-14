@@ -2,6 +2,11 @@
   "dependencies": {
     "express": "^4.19.2",
     "node": "^18.20.1",
-    "pg": "^8.11.5"
+    "pg": "^8.11.5",
+    "slugify": "^1.6.6",
+    "supertest": "^6.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
   }
 }
